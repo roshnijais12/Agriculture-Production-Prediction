@@ -6,6 +6,9 @@ This project predicts agricultural production using Machine Learning. The datase
 ## Dataset
 Source: Kaggle
 
+## Acknowledgement
+This project was completed as part of the internship task provided by UniCoverge Technologies Pvt.Ltd
+
 ## Technologies Used
 - Python
 - Google Colab
