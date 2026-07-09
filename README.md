@@ -66,7 +66,7 @@ The dataset contains agricultural production records collected over multiple yea
 
 ## 🙏 Acknowledgement
 
-I would like to express my sincere gratitude to **Servia Software** for providing me with the opportunity to work on this Machine Learning internship project. This project helped me gain practical experience in data preprocessing, exploratory data analysis, data visualization, and predictive modeling using Python.
+I would like to express my sincere gratitude to **UniConverge Technilogies Pvt.Ltd** for providing me with the opportunity to work on this Machine Learning internship project. This project helped me gain practical experience in data preprocessing, exploratory data analysis, data visualization, and predictive modeling using Python.
 
 I also sincerely thank **Kaggle** for providing the publicly available dataset used in this project, which enabled practical implementation and hands-on learning of Machine Learning techniques.
 
